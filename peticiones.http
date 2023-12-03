@@ -1,0 +1,19 @@
+GET http://localhost:4000/api/usuarios
+
+//DELETE http://localhost:4000/api/ventas/652a99f8bafd4944339b3469
+
+
+POST http://localhost:4000/api/ventas HTTP/1.1
+content-type: application/json
+
+{
+    
+}
+
+
+PUT http://localhost:4000/api/ventas/id HTTP/1.1
+content-type: application/json
+
+{
+    
+}
